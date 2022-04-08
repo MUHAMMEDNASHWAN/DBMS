@@ -1,0 +1,54 @@
+\section{Experimental Analysis}
+In this region, we will present the highlights and consequences of the plan to represent the execution of the
+submitted data set framework. We additionally deciphered the meaning of various boundaries and corresponded them with
+existing strategies.
+\subsection{Blood bank systems and governing institutions of other countries}
+\begin{itemize}
+    \item UNITED KINGDOM:
+    The UK has four transcendent public blood administration associations. In 1999, the UK blood administrations discussion was
+established and was attending to the decentralization of government in the UK. It incorporates leader chiefs and
+clinical chiefs for the four consortiums[8]. For safe blood stockpiling and blood bonding, JPAC has laid out
+numerous rules like details for uniform naming of blood and human tissue items and different norm
+conventions for electronic information trade inside UK blood bonding administrations
+\item USA:
+The UK has four extraordinary public blood organization affiliations. In 1999, the UK blood organizations conversation was
+laid out and was taking care of the decentralization of government in the UK. It joins pioneer bosses and
+clinical bosses for the four consortiums[8]. For safe blood amassing and blood holding, JPAC has spread out
+various guidelines like subtleties for uniform naming of blood and human tissue things and different standard
+shows for electronic data exchange inside UK blood holding organizations
+\end{itemize}
+
+\subsubsection{Relational Algebra and sample queries}
+The data set contains north of 4000 information passages which are made in a randomized way. It is made utilizing great
+interlinked relations. Therefore we can decrease the hunt time as well as wiping out information overt repetitiveness. This makes
+the data set more effective and lessens slack. We have made the framework utilizing SQL. Utilizing SQL based framework is
+exceptionally simple. In this way continuously, the Pathology experts and phlebotomist can without much of a stretch acquire any data
+from the data set and can plan the inquiries in the event that a few new inquiries emerge from end clients.
+\begin{itemize}
+    \item Select donor who did not donate in any camp (Donated directly at a hospital).
+    
+\item Relational algebra
+∏donor_name ( σcamp_id (donar_info) - σcamp_id (Camp_info))
+
+\item Sql query:
+Select donor_name
+From donar_info
+Except
+Select donor_name
+From Camp_info;.
+
+\item Name of all organizers who have organized in Ahmedabad
+
+\item Relational algebra
+∏organization_name(σcity=Ahmedabad”(camp_info)
+
+\item Sql query:
+Select organization_name
+From camp_info
+
+
+\end{itemize}
+Where city=”Ahmedabad”;
+\begin{center}
+    \includegraphics[width=1.5\textwidth]{sonu.jpg}
+\end{center}
