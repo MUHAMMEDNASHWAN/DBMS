@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{DBMS IN BLOOD BANK MANAGEMENT SYSTEM}
+\author{MUHAMMED NASHWAN }
+\date{21/JANUARY/2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}This paper presents a definite methodology for an effective blood donation center data set administration framework. The data set is the absolute most
+helpful setting for reserving information, and it is additionally an optimal apparatus for devising, making due, refreshing, and changing information from various
+points. The advantages of a very much organized blood donation center data set are boundless and yield the advantages of further developing productivity and saving
+time. Here, our rationale is fixated on this area. India faces a deficiency with regards to how much blood gave. The hole in
+request and supply in augmented because of fumble and wasteful data sets. We have displayed an efficient information base to
+attempt and lessen this hole. Close by, we have fostered an application that reminds contributors when they become qualified once more, gives
+areas of adjacent blood gift camps, makes mentioning blood more straightforward for blood beneficiaries and so forth as well as advancing a solid
+local area. IOT is utilized for interlinking the application to the server as well with respect to between application correspondence. With the assistance
+of IOT this assortment and trade of information turns out to be more proficient.
+
+\end{document}
