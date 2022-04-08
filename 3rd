@@ -1,0 +1,15 @@
+\section{Literature Survey}
+Recently, various approaches for blood bank database systems have been proposed in the literature. Few of the relevant
+methods are described here
+\subsection{The Optimization of Blood Donor Information and Management System by Technopedia}
+presented an android mobile application with GIS that lays out a useful, coordinated, and secure
+Data Management System. The proposed arrangement recognizes counterfeit contributors and the abuse of data by clients
+of the application. Likewise, quality checking of blood at different levels is presented. It is expected for the wellbeing of the
+patients.
+\subsection{A Study on Blood Bank Management System}
+planned a proficient data the board framework that keeps up with records of givers and patients.
+It has a security layer that permits just approved representatives of the Blood bank to access and refresh the records
+through a login utilizing a mysterious secret key.
+\subsection{Effective Blood Bank Management Based On RFID in Real Time Systems}
+Have made an Database system which limits human mistake. The majority of these mistakes happen during
+a blood bonding. They have resulted a Blood bank DBMS in view of RFID that endeavors at moderating these mistakes.
