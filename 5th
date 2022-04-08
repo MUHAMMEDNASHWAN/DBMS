@@ -1,0 +1,45 @@
+  Information about various relations is listed below:
+   \begin{itemize}  
+   
+   \item Donor_info contains itemized data about the benefactor.
+   
+   \item Capacity contains data about where different jugs of blood are put away.
+   
+   \item Substitution contains data about contributor, client who wish to supplant mentioned blood bottles.
+   
+   \item Customer_individual contains data about individual clients who have mentioned blood.
+   
+   \item Blood_BagInfo contains data pretty much every one of the items in the blood sack.
+   
+   \item Discard_managment manages blood packs that should be disposed of.
+   
+\item Disease_recogniser manages contaminated blood packs.
+
+\item Camp_info contains data about different camps that occur.
+
+\item_hospital contains data about clinics that mentioned blood from blood donation centers.
+
+\item Hospital_info contains data about different clinics.
+
+\item Blood_request contains data about people that mentioned blood from blood donation centers.
+
+\item Disribution manages transportation between blood donation centers and emergency clinics as well as different representative.
+
+\item HR contains itemized data about different representatives that work at different blood donation centers.
+
+\item Accounts_HR manages the records of different representatives that work at different blood donation centers.
+
+\item Accounts_Bloodbank  manages functional expenses of different blood donation centers.
+
+
+\item Accounts_camps manages functional expenses of different camps.
+
+   \end{itemize}
+   we have underlined a couple of properties to address essential/composite key. The information in every one of the data sets are in
+sync with one another and incredibly simple to recover with the assistance of solid computational powers of My SQL. All the
+tables of the information base would be standardized, diminishing the possibilities of information overt repetitiveness. This would done by have
+various tables to store the data of givers, individual clients, clinics, HR of the blood donation centers, accounts
+
+ Bookmark not defined.Author/Procedia Computer Science 00 (2018) 000-000
+of blood donation centers, and the different blood camps. Also, every one of the information bases would be facilitated on a cloud server, making
+them more versatile and more dependabl
