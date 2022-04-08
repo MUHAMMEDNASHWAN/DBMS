@@ -1,0 +1,13 @@
+\section{DATA DISTRIBUTION TECHINIQUES}
+\begin{itemize}
+
+    \item The data distributed among the sites basedon horizontal fragment teqnique
+    
+    \item the sql we are using select operation for horizontal fragmentation of data. we used here same only
+    
+    \item we have used some simple predicates for fragment with SELECT operation for fragmentation
+    \item SELECT * FROM
+    distributed_blood_bank.doner
+    where
+    
+sub area='chawkabazar'
